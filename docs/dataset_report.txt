@@ -1,0 +1,290 @@
+======================================================================
+HireScore - Dataset Inspection Report
+Total datasets found: 17
+======================================================================
+
+----------------------------------------------------------------------
+Dataset: job_market.csv
+----------------------------------------------------------------------
+  Rows            : 835
+  Columns         : 7
+  Duplicate rows  : 5
+
+  Column details:
+    - 'Job Title'                    dtype=str        missing=0
+    - 'Location'                     dtype=str        missing=0
+    - 'Salary'                       dtype=str        missing=0
+    - 'Monthly Salary'               dtype=float64    missing=338
+    - 'Locality'                     dtype=str        missing=581
+    - 'City'                         dtype=str        missing=0
+    - 'State'                        dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: job_postings.csv
+----------------------------------------------------------------------
+  Rows            : 12217
+  Columns         : 15
+  Duplicate rows  : 0
+
+  Column details:
+    - 'job_link'                     dtype=str        missing=0
+    - 'last_processed_time'          dtype=str        missing=0
+    - 'last_status'                  dtype=str        missing=0
+    - 'got_summary'                  dtype=str        missing=0
+    - 'got_ner'                      dtype=str        missing=0
+    - 'is_being_worked'              dtype=str        missing=0
+    - 'job_title'                    dtype=str        missing=0
+    - 'company'                      dtype=str        missing=0
+    - 'job_location'                 dtype=str        missing=1
+    - 'first_seen'                   dtype=str        missing=0
+    - 'search_city'                  dtype=str        missing=0
+    - 'search_country'               dtype=str        missing=0
+    - 'search_position'              dtype=str        missing=0
+    - 'job_level'                    dtype=str        missing=0
+    - 'job_type'                     dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: job_skills.csv
+----------------------------------------------------------------------
+  Rows            : 12217
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'job_link'                     dtype=str        missing=0
+    - 'job_skills'                   dtype=str        missing=5
+
+----------------------------------------------------------------------
+Dataset: job_summary.csv
+----------------------------------------------------------------------
+  Rows            : 12217
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'job_link'                     dtype=str        missing=0
+    - 'job_summary'                  dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: global_ai_jobs.csv
+----------------------------------------------------------------------
+  Rows            : 90000
+  Columns         : 35
+  Duplicate rows  : 0
+
+  Column details:
+    - 'id'                           dtype=int64      missing=0
+    - 'country'                      dtype=str        missing=0
+    - 'job_role'                     dtype=str        missing=0
+    - 'ai_specialization'            dtype=str        missing=0
+    - 'experience_level'             dtype=str        missing=0
+    - 'experience_years'             dtype=int64      missing=0
+    - 'salary_usd'                   dtype=int64      missing=0
+    - 'bonus_usd'                    dtype=int64      missing=0
+    - 'education_required'           dtype=str        missing=0
+    - 'industry'                     dtype=str        missing=0
+    - 'company_size'                 dtype=str        missing=0
+    - 'interview_rounds'             dtype=int64      missing=0
+    - 'year'                         dtype=int64      missing=0
+    - 'work_mode'                    dtype=str        missing=0
+    - 'weekly_hours'                 dtype=float64    missing=0
+    - 'company_rating'               dtype=float64    missing=0
+    - 'job_openings'                 dtype=int64      missing=0
+    - 'hiring_difficulty_score'      dtype=float64    missing=0
+    - 'layoff_risk'                  dtype=float64    missing=0
+    - 'ai_adoption_score'            dtype=int64      missing=0
+    - 'company_funding_billion'      dtype=float64    missing=0
+    - 'economic_index'               dtype=float64    missing=0
+    - 'ai_maturity_years'            dtype=int64      missing=0
+    - 'offer_acceptance_rate'        dtype=float64    missing=0
+    - 'tax_rate_percent'             dtype=float64    missing=0
+    - 'vacation_days'                dtype=int64      missing=0
+    - 'skill_demand_score'           dtype=int64      missing=0
+    - 'automation_risk'              dtype=int64      missing=0
+    - 'job_security_score'           dtype=int64      missing=0
+    - 'career_growth_score'          dtype=int64      missing=0
+    - 'work_life_balance_score'      dtype=int64      missing=0
+    - 'promotion_speed'              dtype=int64      missing=0
+    - 'salary_percentile'            dtype=int64      missing=0
+    - 'cost_of_living_index'         dtype=float64    missing=0
+    - 'employee_satisfaction'        dtype=int64      missing=0
+
+----------------------------------------------------------------------
+Dataset: Resume.csv
+----------------------------------------------------------------------
+  Rows            : 2484
+  Columns         : 4
+  Duplicate rows  : 0
+
+  Column details:
+    - 'ID'                           dtype=int64      missing=0
+    - 'Resume_str'                   dtype=str        missing=0
+    - 'Resume_html'                  dtype=str        missing=0
+    - 'Category'                     dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: companies.csv
+----------------------------------------------------------------------
+  Rows            : 24473
+  Columns         : 10
+  Duplicate rows  : 0
+
+  Column details:
+    - 'company_id'                   dtype=int64      missing=0
+    - 'name'                         dtype=str        missing=1
+    - 'description'                  dtype=str        missing=297
+    - 'company_size'                 dtype=float64    missing=2774
+    - 'state'                        dtype=str        missing=22
+    - 'country'                      dtype=str        missing=0
+    - 'city'                         dtype=str        missing=1
+    - 'zip_code'                     dtype=str        missing=28
+    - 'address'                      dtype=str        missing=22
+    - 'url'                          dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: company_industries.csv
+----------------------------------------------------------------------
+  Rows            : 24375
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'company_id'                   dtype=int64      missing=0
+    - 'industry'                     dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: company_specialities.csv
+----------------------------------------------------------------------
+  Rows            : 169387
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'company_id'                   dtype=int64      missing=0
+    - 'speciality'                   dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: employee_counts.csv
+----------------------------------------------------------------------
+  Rows            : 35787
+  Columns         : 4
+  Duplicate rows  : 0
+
+  Column details:
+    - 'company_id'                   dtype=int64      missing=0
+    - 'employee_count'               dtype=int64      missing=0
+    - 'follower_count'               dtype=int64      missing=0
+    - 'time_recorded'                dtype=int64      missing=0
+
+----------------------------------------------------------------------
+Dataset: benefits.csv
+----------------------------------------------------------------------
+  Rows            : 67943
+  Columns         : 3
+  Duplicate rows  : 0
+
+  Column details:
+    - 'job_id'                       dtype=int64      missing=0
+    - 'inferred'                     dtype=int64      missing=0
+    - 'type'                         dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: job_industries.csv
+----------------------------------------------------------------------
+  Rows            : 164808
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'job_id'                       dtype=int64      missing=0
+    - 'industry_id'                  dtype=int64      missing=0
+
+----------------------------------------------------------------------
+Dataset: job_skills.csv
+----------------------------------------------------------------------
+  Rows            : 213768
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'job_id'                       dtype=int64      missing=0
+    - 'skill_abr'                    dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: salaries.csv
+----------------------------------------------------------------------
+  Rows            : 40785
+  Columns         : 8
+  Duplicate rows  : 0
+
+  Column details:
+    - 'salary_id'                    dtype=int64      missing=0
+    - 'job_id'                       dtype=int64      missing=0
+    - 'max_salary'                   dtype=float64    missing=6838
+    - 'med_salary'                   dtype=float64    missing=33947
+    - 'min_salary'                   dtype=float64    missing=6838
+    - 'pay_period'                   dtype=str        missing=0
+    - 'currency'                     dtype=str        missing=0
+    - 'compensation_type'            dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: industries.csv
+----------------------------------------------------------------------
+  Rows            : 422
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'industry_id'                  dtype=int64      missing=0
+    - 'industry_name'                dtype=str        missing=34
+
+----------------------------------------------------------------------
+Dataset: skills.csv
+----------------------------------------------------------------------
+  Rows            : 35
+  Columns         : 2
+  Duplicate rows  : 0
+
+  Column details:
+    - 'skill_abr'                    dtype=str        missing=0
+    - 'skill_name'                   dtype=str        missing=0
+
+----------------------------------------------------------------------
+Dataset: postings.csv
+----------------------------------------------------------------------
+  Rows            : 123849
+  Columns         : 31
+  Duplicate rows  : 0
+
+  Column details:
+    - 'job_id'                       dtype=int64      missing=0
+    - 'company_name'                 dtype=str        missing=1719
+    - 'title'                        dtype=str        missing=0
+    - 'description'                  dtype=str        missing=7
+    - 'max_salary'                   dtype=float64    missing=94056
+    - 'pay_period'                   dtype=str        missing=87776
+    - 'location'                     dtype=str        missing=0
+    - 'company_id'                   dtype=float64    missing=1717
+    - 'views'                        dtype=float64    missing=1689
+    - 'med_salary'                   dtype=float64    missing=117569
+    - 'min_salary'                   dtype=float64    missing=94056
+    - 'formatted_work_type'          dtype=str        missing=0
+    - 'applies'                      dtype=float64    missing=100529
+    - 'original_listed_time'         dtype=float64    missing=0
+    - 'remote_allowed'               dtype=float64    missing=108603
+    - 'job_posting_url'              dtype=str        missing=0
+    - 'application_url'              dtype=str        missing=36665
+    - 'application_type'             dtype=str        missing=0
+    - 'expiry'                       dtype=float64    missing=0
+    - 'closed_time'                  dtype=float64    missing=122776
+    - 'formatted_experience_level'   dtype=str        missing=29409
+    - 'skills_desc'                  dtype=str        missing=121410
+    - 'listed_time'                  dtype=float64    missing=0
+    - 'posting_domain'               dtype=str        missing=39968
+    - 'sponsored'                    dtype=int64      missing=0
+    - 'work_type'                    dtype=str        missing=0
+    - 'currency'                     dtype=str        missing=87776
+    - 'compensation_type'            dtype=str        missing=87776
+    - 'normalized_salary'            dtype=float64    missing=87776
+    - 'zip_code'                     dtype=float64    missing=20872
+    - 'fips'                         dtype=float64    missing=27415
