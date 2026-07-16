@@ -1,0 +1,61 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: company_industries
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\company_industries.csv
+Rows: 24375
+Columns: 2
+Memory Usage (MB): 1.844
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: company_id
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 24365
+  Min: 1009
+  Max: 103472979
+  Mean: 20385660.5153
+  Median: 2708302.0
+  Std: 31580834.317
+
+Column Name: industry
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 144
+  Top 10 Most Frequent Values:
+    Staffing and Recruiting: 2387
+    IT Services and IT Consulting: 2130
+    Hospitals and Health Care: 1673
+    Software Development: 1440
+    Financial Services: 986
+    Construction: 752
+    Advertising Services: 624
+    Non-profit Organizations: 617
+    Real Estate: 545
+    Business Consulting and Services: 498
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+         company_id
+count  2.437500e+04
+mean   2.038566e+07
+std    3.158083e+07
+min    1.009000e+03
+25%    1.652215e+05
+50%    2.708302e+06
+75%    2.503948e+07
+max    1.034730e+08
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+                       industry
+count                     24375
+unique                      144
+top     Staffing and Recruiting
+freq                       2387

@@ -1,0 +1,671 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: postings
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\postings.csv
+Rows: 123849
+Columns: 31
+Memory Usage (MB): 928.0518
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: job_id
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 123849
+  Min: 921716
+  Max: 3906267224
+  Mean: 3896402138.0746
+  Median: 3901998406.0
+  Std: 84043545.1619
+
+Column Name: company_name
+Data Type: str
+Missing Values (count): 1719
+Missing Percentage: 1.39%
+Unique Values: 24423
+  Top 10 Most Frequent Values:
+    Liberty Healthcare and Rehabilitation Services: 1108
+    The Job Network: 1003
+    J. Galt: 604
+    TEKsystems: 529
+    Lowe's Companies, Inc.: 527
+    Ingersoll Rand: 517
+    Capital One: 496
+    Cogent Communications: 476
+    Insight Global: 418
+    Dice: 415
+
+Column Name: title
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 72106
+  Top 10 Most Frequent Values:
+    Sales Manager: 673
+    Customer Service Representative: 375
+    Project Manager: 359
+    Administrative Assistant: 259
+    Senior Accountant: 243
+    Executive Assistant: 228
+    Salesperson: 211
+    Registered Nurse: 210
+    Receptionist: 204
+    Staff Accountant: 203
+
+Column Name: description
+Data Type: str
+Missing Values (count): 7
+Missing Percentage: 0.01%
+Unique Values: 107758
+  Top 10 Most Frequent Values:
+    Position Summary: Our Sales Manager has managing partnerresponsibilities for a team of 5-25 Executive Consultants in marketing J.Galt's SaaS memberships and consulting services. In addition, the ManagingPartner/Sales Manager represents J. Galt in attracting memberships throughchannel partners, strategic alliances, chambers of commerce, and state,trade, and professional associations.
+Our Mission: We believe in helping small and medium-sized businessessucceed. It is tragic that most business owners carry the credit needs oftheir business. They often rely on personal credit cards, or they signpersonally for the business to access the funding, equipment, or facilities thebusiness requires to operate.
+What We Do: J. Galt Finance Suite offers a SaaS platform and consultativeservices to small and medium-sized business owners. Our system includes aproven 7-step process to build credit for a business around the business EINwithout personal guarantees or using the owner’s personal credit profile.
+J. Galt is seeking six-figure sales talent and aggressive growth-orientedexecutives with a proven track record of success. Successful candidates willpossess a(n):
+• Minimum 10 years of successful business experience in a marketing-intensive business• Uncompromising need for top-level earnings• High energy, self-disciplined, self-starter with a positive attitude• Goal-oriented with a lifelong quest for personal development and career growth• Persuasive communication skills in oral & written form• Comfortable speaking in front of groups in person or virtually• Top-notch consultative sales skills• Comfortable marketing to professionals and C-level executives• Superior time management and organization skills and a desire to work from a home-based office• Professional appearance and demeanor• Passion to market a SaaS product that solves a small business owner's most vexing problem
+Why J. Galt? | What We Offer• 1st-year Earnings Expectations of $125k-$175k• Long-term Earnings Expectations of $350k+• Weekly Personal Production Earnings• Weekly Override Team Production Earnings• $7,500 Quick Start Bonus after 90 Days.• $5,000 Monthly Personal Performance Bonus• $5,000 Monthly Business Unit Performance Bonus• 5-Figure Quarterly and 6-Figure Annual Bonus Opportunities for Top Producers• Substantial opportunity for promotion and career advancement• Additional earnings from cross-promotion strategies with sister companies in the cost-reduction consulting space
+Promotion Opportunities: Chief Revenue Officer | Equity Stakeholder
+Main Duties & ResponsibilitiesThe Managing Partner contributes significantly to personal production,key channel relationships, as well as hiring, training, and developing ateam of 5-25 Executive Consultants. In summation, a Managing Partnerhas complete control of a J. Galt business credit consulting practice.
+Responsibilities Include:• Attracting memberships through channel partners• Forming strategic alliances with state, trade, and professional associations• Forming partnerships with chambers of commerce• In-person and virtual presentations• Delivering business credit seminars to groups of 5-50 business owners• Monitoring and improving the sales performance of direct reports• Developing sales strategies• Managing the sales process through the J. Galt Sales App• Leading team meetings• Meeting monthly, quarterly, and annual sales targets: 474
+    Store Family Dollar
+
+General Summary:
+
+Work where you love to shop! Family Dollar is hiring in your neighborhood. Avoid long commutes and set your own course to success by applying today.
+
+We offer generous benefits, flexible work schedules and the ability to work today and get paid tomorrow.
+
+As a Family Dollar Assistant Store Manager you will be responsible for providing exceptional service to our customers. A key priority includes assisting the Store Manager in the daily operation of the store. Under the direction of the Store Manager, you will also be responsible for maintaining inventories, store appearance and completing daily paperwork.
+
+Principal Duties & Responsibilities:
+
+Greets and assists customers in a positive, approachable manner. Answers questions and resolves customer inquiries and concerns. Maintains a presence in the store by providing excellent customer service. Ensures a clean, well-stocked store for customers. At the direction of the Store Manager, supervises, trains, and develops Store Associates on Family Dollar operating practices and procedures. Assists in unloading all merchandise from delivery truck, organizes merchandise, and transfers merchandise from stockroom to store. Assists Store Manager in ordering merchandise and record keeping to include payroll, scheduling and cash register deposits and receipts. Supports Store Manager in loss prevention efforts. Assumes certain management responsibilities in absence of Store Manager. Follows all Company policies and procedures.
+
+
+Position Requirements:
+
+Education: Prefer completion of high school or equivalent. Ability to read, interpret and explain to other's operational directives (e.g., merchandise schematics, etc).Experience: Prefer store management experience in retail, grocery, or drug store environments.Physical Requirements: Ability to regularly lift up to 40 lbs. (and occasionally, up to 55 lbs.) from floor level to above shoulder height; must be able to meet demands of frequent walking, standing, stooping, kneeling, climbing, pushing, pulling, and repetitive lifting, with or without reasonable accommodation. Availability: Ability to work flexible, full-time schedule to include days, evenings, weekends and holidays.Skills & Competencies: Customer Focus, Developing Potential, Results Driven, Strong Organizational Skills, Communication Skills, Problem Solving/Decision Making, Job Knowledge and Relationship Management.
+
+
+We value our Associates' contributions to our success, which drives us to invest in the most important element of our organization: our people.
+
+As we work towards a healthier future, we provide eligible associates with the following:
+
+Health and welfare programs including medical, pharmacy, dental, and vision
+
+Employee Assistance Program
+
+Paid Time Off
+
+Retirement Plans
+
+Employee Stock Purchase Program
+
+Dollar Tree and Family Dollar are Equal Opportunity employers.: 167
+    JOB GOAL 
+ Plan, organize and implement an appropriate instructional program in a learning environment that guides and encourages students to develop and fulfill their academic potential. 
+ POSITION QUALIFICATIONS:
+  Bachelor’s Degree from an accredited college or university 
+ DUTIES AND RESPONSIBILITIES:
+  Understands and supports the mission, vision and values of Harmony Public Schools. Models and instills a love of learning Designs and implements appropriate instruction of content area(s) assigned in with the school standards, curriculum, and student needs Plans, prepares, and delivers lesson plans and instructional materials that maximize student engagement and learning. Utilizes a variety of teaching practices and methodologies that reflect diverse educational, cultural, and linguistic backgrounds in order to meet the individual needs of students. Instructs and monitors students in the use of learning materials and equipment. Uses relevant technology to support and differentiate instruction. Conducts tutoring sessions to meet all students’ needs. Manages student behavior in the classroom by establishing and enforcing rules and procedures Maintains discipline in accordance with the rules and disciplinary systems of the school Implements a clear and consistent behavior management system while developing students’ character and sense of community in the classroom. Encourages and monitors the progress of individual students and uses information to adjust teaching strategies Attends department, school, district and parent meetings. Participates in district and campus staff development and serves on staff committees. Maintains a professional relationship with colleagues. Maintains accurate, complete, and correct records as required by law, district policy, and administrative regulations. Prepares required reports on students and activities Establishes and communicates clear objectives for all learning activities Assigns and grades classwork, homework, tests, and assignments. Takes daily attendance Communicates necessary information regularly to students, colleagues and parents regarding student progress and student needs Establishes and maintains open lines of communication with students, parents, and community members. Takes necessary and reasonable precautions to protect the students, equipment, materials, and facilities. Performs other duties as assigned. 
+SKILLS AND ABILITIES:
+  Knowledge of curriculum and instruction Ability to communicate effectively in both written and oral forms with all levels of management, both internal and external to the district. Ability to establish and maintain effective working relationships both internal and external to the district. Ability to use effective organizational, interpersonal, and communication skills Ability to use computer including software, database used by the district, spreadsheet and word processing software, calculator, copy machine and telephone. Ability to analyze data. 
+ WORK ENVIRONMENT AND PHYSICAL REQUIREMENTS:
+  Light Work: may require the occasional light lifting. Nights and weekend activities will be occasionally required. Position is in classroom setting and intermittent speaking, standing, walking and writing. Moderate travel is required.: 127
+    Store Dollar Tree
+
+Work where you love to shop! Dollar Tree is hiring in your neighborhood. Avoid long commutes and set your own course to success by applying today.
+
+We offer generous benefits, flexible work schedules and the ability to work today and get paid tomorrow.
+
+Responsible for assisting with all operational tasks within the store as delegated and assigned by the Store Manager with main focus on the front-end and sales floor operations. Also assist with the hiring, training and development of store associates as delegated by the Store Manager
+
+Principal Duties And Responsibilities
+
+Assist with all store functions and day-to-day store activities as directed by the Store ManagerAble to perform all opening and closing procedures in the absence of the Store ManagerAssist the Store Manager in protecting and securing all company assets, including store cashAdhere to all policies and procedures including safety guidelinesMaintain a professional and friendly environment with customers, subordinates and supervisorsMaintain all areas of the store, including the stockroom and sales floor, to company standards to include recoveryWhen the Store Manager is not on the premises, direct supervisory responsibility for all hourly AssociatesProcess all SSC Corporate directives including Pull and Hold/Destroy, Task Compliance, Key Survey informationrequests and any additional communications related to store activities as delegated by the Store ManagerAssist the Store Manager on the receipt and return of DSD merchandise.Follow the VIP and DSD Policies and ProceduresAssist the Store Manager in ensuring proper staffing coverage on a daily basisAssist the Store Manager in ensuring that the sales floor is sales effective on a daily basisAssist in the management of cashiering activities to ensure all company cash handling practices & guidelines are followed at all times by all AssociatesPromotional effectiveness of store-front fixtures and displaysAssist in the management of sales effectiveness of seasonal areas in the storeCoordinate appropriate signage utilized in the storeAssist with the receipt and return of DSD merchandiseProcess damaged merchandise on a daily basisAssist Store Manager with creation of weekly schedulesAssist in the management of store supplies and expense controlAssist with merchandising and maintaining the checkout area to maximize impulse salesEnsure coolers and store-front program racks/displays are refilled daily (balloon program, sunglasses, batteries, etc.)Assist with the management of the Drive Item program
+
+Minimum Requirements/Qualifications
+
+Prefer prior retail and management experienceStrong communication, interpersonal, and written skillsAbility to lift, bend and transport merchandise weighing up to 50lbsAbility to work in a high energy team environment
+
+
+We value our Associates' contributions to our success, which drives us to invest in the most important element of our organization: our people.
+
+As we work towards a healthier future, we provide eligible associates with the following:
+
+Health and welfare programs including medical, pharmacy, dental, and vision
+
+Employee Assistance Program
+
+Paid Time Off
+
+Retirement Plans
+
+Employee Stock Purchase Program
+
+This job specification should not be construed to imply that these requirements are the exclusive standards of the position. This is not to be considered a complete list of job duties, which appear in the job description for this position, and which may be amended from time to time at the discretion of Dollar Tree. Incumbents will follow any other instructions and perform any other related duties as may be required by their supervisor.
+
+Dollar Tree is an equal opportunity employer.: 117
+    Claire's - A Career that's always in style
+
+Part-Time Manager/3rd Key Holder Opportunity
+
+About The Role
+
+As a 3rd Keyholder at Claire's, you will be responsible for:
+
+Supporting your Store Manager and Assistant Store Manager with the achievement of retail store targets by driving salesIn the absence of any other management they may open and close the store and are responsible at that point for ensuring that the store trades safely and legallyDelivering sales through friendly and efficient customer serviceEnsuring our customers have a fun and enjoyable shopping experienceDemonstrating Claires productsAssisting customers with their queries using your product knowledgeAssisting with processing store deliveries, visual merchandising, stock takes, markdowns and promotionsEar piercing (you will receive full training)Ensuring the store looks presentable and inviting to our customers
+
+About Claire's
+
+A leading high street fashion retailer with +3000 stores globallyWe specialize in fashionable jewelry, accessories and cosmetics productsOur core customer ranges from children to young women. We accommodate all our customers' moods, attitudes and styles, including: feminine and pretty, unique/individual and the latest catwalk trendsWe are a fun place to work! We encourage all store members to wear our productWe encourage and support your development! If you're committed, ambitious and willing to learn we will provide you with the skills you need to grow in our company!
+
+Qualifications - External
+
+About You
+
+Some high school requiredMinimum 1 year retail experienceExcellent verbal/written communication and organizational skillsBasic computer skillsUnderstands the importance of Customer ServiceSound understanding of mathematics and strong reading comprehension skillsAbility to stand during scheduled shiftsAbility to maneuver up to 25 lbs regularly and up to 75 lbs occasionallyBending, stooping, extended reaching, climbing ladders and step stools while placing merchandise throughout the store and assisting CustomersAbility to operate POS system
+
+Claire's is an equal opportunity employer committed to diversity, equity and inclusion and we encourage applications from members of all under represented groups, including those with disabilities. We will accommodate applicants' needs, upon request, throughout all stages of the recruitment process. Please inform us of the accommodation(s) that you may require. Information received relating to accommodation will be addressed confidentially. To request accommodation, please email Benefits@claires.com. Only messages sent for this purpose will be considered.
+
+Claire's is an equal opportunity employer committed to diversity, equity and inclusion and we encourage applications from members of all underrepresented groups, including those with disabilities. We will accommodate applicants' needs, upon request, throughout all stages of the recruitment process. Please inform us of the accommodation(s) that you may require.: 105
+    Your time. Your Goals. What is DoorDash Available in over 4,000 cities in the U.S, DoorDash connects local businesses and local drivers (called Dashers) with opportunities to earn, work, and live. As a Dasher , you can be your own boss and enjoy the flexibility of choosing when, where, and how much you earn. All you need is a mode of transportation (bike, car, scooter) and a smartphone to start making money. It's that simple. You can even sign up and begin working that same day. With Dasher Direct, you can also get paid the same day! Why deliver with DoorDash Choose your own hours: When and where you work is totally up to you. Freedom to dash anywhere: Deliver near your home or in a city you're just visiting. Easy to get started: Don't worry about car inspections or vehicle restrictions. Just sign up and receive everything you need to start earning. Receive deliveries right away: Once approved, log on to the Dasher app to receive nearby orders immediately. Know how much you'll make: Clear and concise pay model lets you know the minimum amount you will make before accepting any order Don't wait for pay: Get paid the same day you dash, automatically and with no deposit fee - ever. Earn extra money for your goals: Achieve your short-term goals or long-term dreams by driving or biking with DoorDash. Sign Up Details Requirements 18 or older Any car, scooter, or bicycle (in select cities) Driver's license number Social security number (only in the US) Final Step: consent to a background check How to sign up Click "Apply Now" and complete the sign up Get the app and go
+
+SimplyApply: 105
+    Store Family Dollar
+
+Family Dollar is seeking motivated individuals to support our Stores as we provide essential products at great values to the communities we serve.
+
+General Summary
+
+As a Family Dollar Customer Service Representative you will be responsible for providing exceptional service to our customers. Key priorities include greeting customers, assisting them with selection of merchandise, completing transactions, and answering questions regarding the store and merchandise.
+
+Principle Duties and Responsibilities: 
+
+ Provides customer engagement in positive and approachable manner. Assists in maintaining a clean, well-stocked store for customers during their shopping experience. Helps in the unloading of merchandise from delivery trucks, organizes merchandise, and transports merchandise from stockroom to sales floor. Independently stocks shelves and recovers merchandise in the store. Accurately handles customer funds and processes transactions using the POS system. Remains constantly aware of customer activity to ensure a safe and secure shopping environment. Performs all other duties as assigned in order to maintain an effective and profitable store operation.
+
+
+Position Requirements: 
+
+Education: Prefer completion of high school or equivalent. Ability to follow directives and interpret retail operational documents as assigned.
+
+Experience: Prefer experience working in retail, hotel, restaurant, grocery or drug store environments.
+
+Physical Requirements: Ability to regularly lift up to 40lbs. (and occasionally, up to 55 lbs.) from floor level to above shoulder height; must be able to meet demands of frequent walking, standing, stooping, kneeling, climbing, pushing, pulling and repetitive lifting, with or without reasonable accomodation.
+
+Availability: Ability to work flexible, full-time schedule to include days, evenings, weekends and holidays.
+
+Skills and Competencies: Customer Focus, Developing Potential, Results Driven, Strong Organizational Skills, Communication Skills, Problem Solving/Decision Making, Job Knowledge and Relationship Management.
+
+Dollar Tree and Family Dollar are Equal Opportunity employers.: 96
+    Private practice with no doors and no overhead.
+
+Join the world's largest online counseling platform.
+
+Put simply: You provide the clinical expertise, we take care of everything else. And we mean everything else.
+
+Benefits
+
+Consistent referrals: Full clinical caseload can be established within the first 30 days.Zero overhead: No fees are collected from the therapist, ever.Flexible schedule: You are always in control of your schedule and appointment times. BetterHelp can be your major source of income ("full time") or a supplement to your current work.Engaged clients: You are connected with clients who fit your specific areas of expertise. Then, BetterHelp provides clients with a wide variety of ways to connect with you so that they can best start their therapeutic journey: from scheduled live sessions, to shared journal entries, to audio and video messages, to clinical worksheets, to formal goal setting and tracking, and more.Autonomy over clinical decisions: You are the licensed and trained clinician. BetterHelp will defer to your clinical judgment and expertise about the most effective and clinically appropriate approach for each client.Personalized marketing: You will have your own website and profile that is optimized for you based on your location, expertise, and availability.Resources to keep you connected: BetterHelp has a strong and accessible peer community of over 13,000 therapists, available to you directly through the platform.Resources to support you: Therapists on the BetterHelp platform receive a free BetterHelp account – so you can dedicate time to your own self-care!
+
+Who Should Apply
+
+Therapists looking for an easy, all-in-one technology platform for telehealth.Therapists who want to focus 100% on clinical work – not on acquiring clients, billing, support, or operations. (We handle all of that!)Therapists who want a feature-rich platform that is constantly adding new clinical tools – not just video conferencing software.Therapists who want the opportunity to work with specific populations or presenting concerns.Therapists who do not want to work directly with insurance, Medicare, or Medicaid.Therapists who are obsessed with privacy and confidentiality, and want a state-of-the-art technology platform with secure, encrypted phone, video, and text-based communication.
+
+Requirements
+
+Therapists must be fully licensed by a State Board to provide counseling independently and without supervision (e.g., LCSW, LPC, LMFT, PsyD or similar credentials).
+
+NOTE: Unfortunately, if you are an intern or if you require supervision to provide counseling services, you cannot be a provider on BetterHelp at this time. Also, we are unable to accept substance abuse counselors, school counselors, registered nurses, career counselors, Christian counselors, and business coaches (unless they have an additional license as a mental health therapist).
+
+Experience counseling adults, couples, and/or teens.A private environment for conducting sessions.Excellent written communication.Must have professional liability insurance.Must pass a background check.Reliable Internet connection.Currently residing in the US.
+
+Advantages (not Mandatory But Great To Have)
+
+20 or more client hours per week preferred.Therapists who have experience providing telehealth services.
+
+Note: Therapists are independent providers, not BetterHelp employees.
+
+Employment Type: Full Time
+
+Bonus/Commission: No: 94
+    A position at White Cap isn’t your ordinary job. You’ll work in an exciting and diverse environment, meet interesting people, and have a variety of career opportunities.
+
+The White Cap family is committed to Building Trust on Every Job. We do this by being deeply knowledgeable, fully capable, and always dependable, and our associates are the driving force behind this commitment.
+
+Job Summary
+
+Play a crucial role in driving sales growth through engaging potential customers, nurturing leads, and converting them into sales opportunities. This position offers an exciting opportunity to contribute to the company's success while working in a fast-paced, results oriented environment.
+
+Major Tasks, Responsibilities And Key Accountabilities
+
+ Proactively make outbound sales calls to an assigned list of ~300 potential and existing accounts to drive sales growth. Increase penetration within existing customers by increasing the number of categories sold. Establish and maintain strong relationships with key decision-makers, understanding their business challenges and objectives. Utilize CRM to manage customer interactions, record sales activities, and update customer information accurately and frequently. Create and manage sales pipeline, ensuring timely follow-ups and progression of leads through sales cycle. Corporate Initiatives and Sales Support: Execute corporate sales initiatives, promotions, and campaigns to drive sales growth (e.g., cross-sell, WC Rewards). Actively participate in sales meetings, training sessions, and workshops to enhance sales skills. Continuously improve personal knowledge of products, industry trends, and market conditions to effectively communicate value propositions to customers. Provide support and guidance to customers regarding product selection, specifications, and applications. Collaborate with internal teams, including sales managers and product specialists, to address customer inquiries, resolve issues, and ensure timely order fulfillment. Work in close-knit team environment with other Sales Specialists to drive both individual and team performance. Interpret and analyze KPI dashboards and sales reports to improve sales performance. Provide feedback and recommendations to management based on performance analysis and market trends.
+
+Nature and Scope
+
+Demonstrates skill in data analysis techniques by resolving missing/incomplete information and inconsistencies/anomalies in more complex research/data.Nature of work requires increasing independence; receives guidance only on unusual, complex problems or issues. Work review typically involves periodic review of output by a supervisor and/or direct customers of the process.May provide general guidance/direction to or train junior level support or professional personnel.
+
+Work Environment
+
+Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable.Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.Typically requires overnight travel less than 10% of the time.
+
+Education And Experience
+
+Typically requires BS/BA in a related discipline. Generally 2-5 years of experience in a related field OR MS/MA and generally 2-4 years of experience in a related field. Certification is required in some areas.
+
+Preferred Qualifications
+
+This position will be based in a White Cap branch: https://www.whitecap.com/locations3+ years’ experience in a sales role – REQUIRED.Strong sales and negotiation skills with a track record of achieving or exceeding sales targets.Excellent communication and interpersonal skills, with the ability to build customer relationships.Must have exceptional skills leveraging Salesforce or other CRM platforms and KPI dashboards to meet sales goals.Strong organizational skills to meet sales objectives.Construction industry experience is a plus.Must be comfortable working in a fast-paced environment.Self-motivated and results-oriented with a proactive approach to sales and business development.
+
+\
+
+If you’re looking to play a role in building America, consider one of our open opportunities. We can’t wait to meet you.
+
+For New York Job Seekers
+
+Pay Range
+
+New York law requires the posting of the salary range for advertised jobs. This range is determined based on market data and internal pay practices to establish a minimum and maximum value for a job. Individual base pay is determined based on a variety of elements including experience, skills, internal equity and other factors. For additional details on benefits, please review the full job description on White Cap Jobs (https://whitecap.jobs/)
+
+Functional Area Sales
+
+Recruiter Frister, Sara
+
+Req ID WCJR-018983
+
+White Cap is an Equal Opportunity Minority/Female/Individuals with Disabilities/Protected Veteran and Affirmative Action Employer. White Cap considers for employment and hires qualified candidates without regard to age, race, religion, color, sex, sexual orientation, gender, gender identity, national origin, ancestry, citizenship, protected veteran or disability status or any factor prohibited by law.: 83
+    Please note – currently this role may not require an in-person interview and if you are selected for this role you will receive a job offer via email. Please watch your email closely for updates from us!
+
+Are you ready to bring your amazing self to work?
+
+At Macy's, Inc., we're on a mission to create a brighter future with bold representation for all. This is our Mission Every One. We know that each person here is unique. We respect and invest in each individual to create growth, pride and satisfaction. If we are able to bring our whole selves to work, it translates into a more abundant and wider array of ideas and energy for all to benefit from. Our success will be built on amazing colleagues, working together.
+
+Job Summary
+
+As a Retail Sales Associate, also known as a Generalist colleague, you are an integral part of bringing the Macy’s magic, and the Macy’s shopper is your highest priority. Your close attention to customer preferences and the expertise you develop in Macy’s merchandise and services will let you create exceptional experiences for every customer you encounter. As you help your team meet their sales goals through delivering consistently superior service, your positive, welcoming presence will be felt throughout your area. From the sales floor to the fitting rooms to product presentations, you will be part of a fun, inclusive team that rises to every challenge.
+
+What We Can Offer You
+
+An inclusive, challenging, and refreshingly fun work environment Empowerment to perform impactful work with tangible results Coverage across medical, dental, vision, and retirement Employee Assistance Program (mental health and financial literacy resources) Fully-Funded education benefits may include 100% of tuition, books, and fees Merchandise discounts Colleague Resource Groups (CRGs), give-back/volunteer opportunities
+
+What You Will Do
+
+Customer Service: Master store products, services, loyalty programs, and Macy’s sales systems and use knowledge to help customers find what they need and suggest additional items.Sales Support: Develop customer relationships to grow business and expand our client base. Respond to customer requests for additional merchandise or other assistance, including sharing how to use an electronic device to shop and compare. Assist in locating and pulling merchandise to fulfill digital customer orders.Merchandise Organization: Maintain department recovery standards, including selling floor and fitting rooms.Update Pricing and Signage: Deliver optimal merchandise execution presentation, ensure accurate merchandise pricing, and process markdowns in a timely and accurate manner.
+
+Who You Are
+
+Focused on upholding Macy’s dedication to fulfilling ideals of diversity, inclusion and respect that our company aspires to achieve, every day in every store and office, with every customer and associateFlexible availability, including days, evenings, weekends and holidays with regular, dependable attendance and punctualityEnjoy meeting people, learning about them, and sharing information Resourceful and eager to start a new venture and can adapt to changing priorities; you can work on your own but are great with team dynamicsYou can handle electronic devices with no problemNo Education or Experience Required
+
+Essential Physical Requirements
+
+Prolonged periods of standing/walking around the store or department Reach with hands and arms, use hands to press, handle, and feelOccasionally required to lift and/or move up to 25 lbs., climb ladders, stoop, kneel, crouch, and crawlRequires close vision, color vision, and ability to adjust focus
+
+About Macy’s
+
+Now is an exciting time for a Macy’s career as we continue to focus on creating exciting and memorable experiences for every Macy’s customer, whether their journey starts online or in the store. Our opportunities in Sales, Merchandise, Operations, Customer Service, Warehouse, Marketing, and other areas let you express your creativity and commitment to excellence, grow your career, and make a difference to your Macy’s colleagues and customers.
+
+Bring your creativity, energy, and ideas to the Macy’s team – Apply Today!
+
+STORES00
+
+This position may be eligible for performance-based incentives/bonuses. Benefits include 401k, medical/vision/dental/life/disability insurance options, PTO accruals, Holidays, and more. Eligibility requirements may apply based on location, job level, classification, and length of employment. Additional benefit details are available at macysJOBS.com.: 74
+
+Column Name: max_salary
+Data Type: float64
+Missing Values (count): 94056
+Missing Percentage: 75.94%
+Unique Values: 5321
+  Min: 1.0
+  Max: 120000000.0
+  Mean: 91939.4235
+  Median: 80000.0
+  Std: 701110.1386
+
+Column Name: pay_period
+Data Type: str
+Missing Values (count): 87776
+Missing Percentage: 70.87%
+Unique Values: 5
+  Top 10 Most Frequent Values:
+    YEARLY: 20628
+    HOURLY: 14741
+    MONTHLY: 518
+    WEEKLY: 177
+    BIWEEKLY: 9
+
+Column Name: location
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 8526
+  Top 10 Most Frequent Values:
+    United States: 8125
+    New York, NY: 2756
+    Chicago, IL: 1834
+    Houston, TX: 1762
+    Dallas, TX: 1383
+    Atlanta, GA: 1363
+    Boston, MA: 1176
+    Austin, TX: 1083
+    Charlotte, NC: 1075
+    Phoenix, AZ: 1059
+
+Column Name: company_id
+Data Type: float64
+Missing Values (count): 1717
+Missing Percentage: 1.39%
+Unique Values: 24474
+  Min: 1009.0
+  Max: 103472979.0
+  Mean: 12204012.335
+  Median: 226965.0
+  Std: 25541431.6574
+
+Column Name: views
+Data Type: float64
+Missing Values (count): 1689
+Missing Percentage: 1.36%
+Unique Values: 684
+  Min: 1.0
+  Max: 9975.0
+  Mean: 14.6182
+  Median: 4.0
+  Std: 85.9036
+
+Column Name: med_salary
+Data Type: float64
+Missing Values (count): 117569
+Missing Percentage: 94.93%
+Unique Values: 1417
+  Min: 0.0
+  Max: 750000.0
+  Mean: 22015.6199
+  Median: 25.5
+  Std: 52255.8738
+
+Column Name: min_salary
+Data Type: float64
+Missing Values (count): 94056
+Missing Percentage: 75.94%
+Unique Values: 4612
+  Min: 1.0
+  Max: 85000000.0
+  Mean: 64910.8474
+  Median: 60000.0
+  Std: 495973.7935
+
+Column Name: formatted_work_type
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 7
+  Top 10 Most Frequent Values:
+    Full-time: 98814
+    Contract: 12117
+    Part-time: 9696
+    Temporary: 1190
+    Internship: 983
+    Volunteer: 562
+    Other: 487
+
+Column Name: applies
+Data Type: float64
+Missing Values (count): 100529
+Missing Percentage: 81.17%
+Unique Values: 274
+  Min: 1.0
+  Max: 967.0
+  Mean: 10.592
+  Median: 3.0
+  Std: 29.0474
+
+Column Name: original_listed_time
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 65036
+  Min: 1701810533000.0
+  Max: 1713572803000.0
+  Mean: 1713152338799.942
+  Median: 1713395039000.0
+  Std: 484820878.4148
+
+Column Name: remote_allowed
+Data Type: float64
+Missing Values (count): 108603
+Missing Percentage: 87.69%
+Unique Values: 1
+  Min: 1.0
+  Max: 1.0
+  Mean: 1.0
+  Median: 1.0
+  Std: 0.0
+
+Column Name: job_posting_url
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 123849
+  Top 10 Most Frequent Values:
+    https://www.linkedin.com/jobs/view/921716/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/1829192/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/10998357/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/23221523/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/35982263/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/91700727/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/103254301/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/112576855/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/1218575/?trk=jobs_biz_prem_srch: 1
+    https://www.linkedin.com/jobs/view/2264355/?trk=jobs_biz_prem_srch: 1
+
+Column Name: application_url
+Data Type: str
+Missing Values (count): 36665
+Missing Percentage: 29.6%
+Unique Values: 84800
+  Top 10 Most Frequent Values:
+    https://app.dataannotation.tech/worker_signup?projects=PROG_SA&worker_src=L&utm_medium=display&utm_source=linkedin&utm_campaign=softwaredeveloper: 205
+    https://revature.com/jobs/entry-level-automotive-engineer/?utm_source=linkedin&sourcedBy=BalaLP: 67
+    https://app.dataannotation.tech/worker_signup?worker_src=LI&utm_medium=display&utm_source=linkedin&utm_campaign=aicontentwriter: 60
+    https://www.english1.com/apply-now/?utm_source=linkedin&utm_medium=listing&utm_term=china&utm_content=linkedin&utm_campaign=linkedin: 44
+    https://optimabiosupply.com/job-opening-data-entry-clerk/: 43
+    https://dataforcecommunity.transperfect.com/project/amethyst-project-us?/fill?id313=DF017&id315=DavidS: 18
+    https://forms.gle/Lj3M5Jhm2xWtZa1h6: 17
+    https://forms.office.com/r/UAVrY128aW: 15
+    https://hourlyjobs-us.mondelezinternational.com/?src=SNS-12680: 15
+    https://revature.com/jobs/entry-level-oracle-financial-technology/?utm_source=linkedin&sourcedBy=BalaLP: 12
+
+Column Name: application_type
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 4
+  Top 10 Most Frequent Values:
+    OffsiteApply: 84607
+    ComplexOnsiteApply: 31049
+    SimpleOnsiteApply: 8192
+    UnknownApply: 1
+
+Column Name: expiry
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 54851
+  Min: 1712903448000.0
+  Max: 1729124796000.0
+  Mean: 1716213036608.1519
+  Median: 1716042264000.0
+  Std: 2321393898.0842
+
+Column Name: closed_time
+Data Type: float64
+Missing Values (count): 122776
+Missing Percentage: 99.13%
+Unique Values: 698
+  Min: 1712345932000.0
+  Max: 1713562107000.0
+  Mean: 1712927892086.6729
+  Median: 1712669910000.0
+  Std: 362289347.4093
+
+Column Name: formatted_experience_level
+Data Type: str
+Missing Values (count): 29409
+Missing Percentage: 23.75%
+Unique Values: 6
+  Top 10 Most Frequent Values:
+    Mid-Senior level: 41489
+    Entry level: 36708
+    Associate: 9826
+    Director: 3746
+    Internship: 1449
+    Executive: 1222
+
+Column Name: skills_desc
+Data Type: str
+Missing Values (count): 121410
+Missing Percentage: 98.03%
+Unique Values: 2212
+  Top 10 Most Frequent Values:
+    This position requires the following skills: Elder care, Healthcare, Hospice Care, Patient Care: 28
+    Optometry, Contact Lenses, Glaucoma, Ocular Disease, Eye Exams, Cataract, Low Vision, Diabetes, Eyewear: 19
+    This position requires the following skills: Advocacy, Community Outreach, CSR / Volunteer Coordination, Fundraising, Lobbying, Public Relations: 19
+    This position requires the following skills: Accounting: 14
+    This position requires the following skills: Animal Care / Handling, Animal Therapy, Elder care, Healthcare, Hospice Care, Patient Care: 14
+    This position requires the following skills: Community Outreach, CSR / Volunteer Coordination, Disaster Response, Interactive/Social Media/SEO, Marketing & Communications (Mar/Com): 8
+    This position requires the following skills: People Skills, Transportation, Verbal / Written Communication: 8
+    This position requires the following skills: Animal Care / Handling, Animal Therapy, Healthcare, Hospice Care, Patient Care: 8
+    This position requires the following skills: Customer Service, Multi-Tasking, Networking, Organization, People Skills, Verbal / Written Communication: 8
+    CommissionConstructionConsultantLeasingLuxury SalesNew HomeNew Home ConstructionNew Home SalesReal EstateResidential SalesRetailSalesSales AssociateSales ManagerSales ProfessionalSales Representative: 7
+
+Column Name: listed_time
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 53231
+  Min: 1711317014000.0
+  Max: 1713572816000.0
+  Mean: 1713204445996.6814
+  Median: 1713407593000.0
+  Std: 398912198.594
+
+Column Name: posting_domain
+Data Type: str
+Missing Values (count): 39968
+Missing Percentage: 32.27%
+Unique Values: 4443
+  Top 10 Most Frequent Values:
+    www.click2apply.net: 3811
+    click.appcast.io: 2255
+    jsv3.recruitics.com: 1921
+    jobs.smartrecruiters.com: 1557
+    boards.greenhouse.io: 1493
+    rr.jobsyn.org: 1202
+    recruiting.ultipro.com: 1175
+    recruiting.adp.com: 809
+    sjobs.brassring.com: 785
+    dsp.prng.co: 766
+
+Column Name: sponsored
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 1
+  Min: 0
+  Max: 0
+  Mean: 0.0
+  Median: 0.0
+  Std: 0.0
+
+Column Name: work_type
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 7
+  Top 10 Most Frequent Values:
+    FULL_TIME: 98814
+    CONTRACT: 12117
+    PART_TIME: 9696
+    TEMPORARY: 1190
+    INTERNSHIP: 983
+    VOLUNTEER: 562
+    OTHER: 487
+
+Column Name: currency
+Data Type: str
+Missing Values (count): 87776
+Missing Percentage: 70.87%
+Unique Values: 6
+  Top 10 Most Frequent Values:
+    USD: 36058
+    EUR: 6
+    CAD: 3
+    BBD: 2
+    AUD: 2
+    GBP: 2
+
+Column Name: compensation_type
+Data Type: str
+Missing Values (count): 87776
+Missing Percentage: 70.87%
+Unique Values: 1
+  Top 10 Most Frequent Values:
+    BASE_SALARY: 36073
+
+Column Name: normalized_salary
+Data Type: float64
+Missing Values (count): 87776
+Missing Percentage: 70.87%
+Unique Values: 7259
+  Min: 0.0
+  Max: 535600000.0
+  Mean: 205327.0368
+  Median: 81500.0
+  Std: 5097626.7621
+
+Column Name: zip_code
+Data Type: float64
+Missing Values (count): 20872
+Missing Percentage: 16.85%
+Unique Values: 6989
+  Min: 1001.0
+  Max: 99901.0
+  Mean: 50400.4919
+  Median: 48059.0
+  Std: 30252.2325
+
+Column Name: fips
+Data Type: float64
+Missing Values (count): 27415
+Missing Percentage: 22.14%
+Unique Values: 2270
+  Min: 1003.0
+  Max: 56045.0
+  Mean: 28713.8799
+  Median: 29183.0
+  Std: 16015.9298
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+             job_id    max_salary    company_id          views     med_salary    min_salary       applies  original_listed_time  remote_allowed        expiry   closed_time   listed_time  sponsored  normalized_salary       zip_code          fips
+count  1.238490e+05  2.979300e+04  1.221320e+05  122160.000000    6280.000000  2.979300e+04  23320.000000          1.238490e+05         15246.0  1.238490e+05  1.073000e+03  1.238490e+05   123849.0       3.607300e+04  102977.000000  96434.000000
+mean   3.896402e+09  9.193942e+04  1.220401e+07      14.618247   22015.619876  6.491085e+04     10.591981          1.713152e+12             1.0  1.716213e+12  1.712928e+12  1.713204e+12        0.0       2.053270e+05   50400.491887  28713.879887
+std    8.404355e+07  7.011101e+05  2.554143e+07      85.903598   52255.873846  4.959738e+05     29.047395          4.848209e+08             0.0  2.321394e+09  3.622893e+08  3.989122e+08        0.0       5.097627e+06   30252.232515  16015.929825
+min    9.217160e+05  1.000000e+00  1.009000e+03       1.000000       0.000000  1.000000e+00      1.000000          1.701811e+12             1.0  1.712903e+12  1.712346e+12  1.711317e+12        0.0       0.000000e+00    1001.000000   1003.000000
+25%    3.894587e+09  4.828000e+01  1.435200e+04       3.000000      18.940000  3.700000e+01      1.000000          1.712863e+12             1.0  1.715481e+12  1.712670e+12  1.712886e+12        0.0       5.200000e+04   24112.000000  13121.000000
+50%    3.901998e+09  8.000000e+04  2.269650e+05       4.000000      25.500000  6.000000e+04      3.000000          1.713395e+12             1.0  1.716042e+12  1.712670e+12  1.713408e+12        0.0       8.150000e+04   48059.000000  29183.000000
+75%    3.904707e+09  1.400000e+05  8.047188e+06       8.000000    2510.500000  1.000000e+05      8.000000          1.713478e+12             1.0  1.716088e+12  1.713283e+12  1.713484e+12        0.0       1.250000e+05   78201.000000  42077.000000
+max    3.906267e+09  1.200000e+08  1.034730e+08    9975.000000  750000.000000  8.500000e+07    967.000000          1.713573e+12             1.0  1.729125e+12  1.713562e+12  1.713573e+12        0.0       5.356000e+08   99901.000000  56045.000000
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+                                          company_name          title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               description pay_period       location formatted_work_type                                                    job_posting_url                                                                                                                                    application_url application_type formatted_experience_level                                                                                      skills_desc       posting_domain  work_type currency compensation_type
+count                                           122130         123849                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    123842      36073         123849              123849                                                             123849                                                                                                                                              87184           123849                      94440                                                                                             2439                83881     123849    36073             36073
+unique                                           24423          72106                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    107758          5           8526                   7                                                             123849                                                                                                                                              84800                4                          6                                                                                             2212                 4443          7        6                 1
+top     Liberty Healthcare and Rehabilitation Services  Sales Manager  Position Summary: Our Sales Manager has managing partnerresponsibilities for a team of 5-25 Executive Consultants in marketing J.Galt's SaaS memberships and consulting services. In addition, the ManagingPartner/Sales Manager represents J. Galt in attracting memberships throughchannel partners, strategic alliances, chambers of commerce, and state,trade, and professional associations.\nOur Mission: We believe in helping small and medium-sized businessessucceed. It is tragic that most business owners carry the credit needs oftheir business. They often rely on personal credit cards, or they signpersonally for the business to access the funding, equipment, or facilities thebusiness requires to operate.\nWhat We Do: J. Galt Finance Suite offers a SaaS platform and consultativeservices to small and medium-sized business owners. Our system includes aproven 7-step process to build credit for a business around the business EINwithout personal guarantees or using the owner’s personal credit profile.\nJ. Galt is seeking six-figure sales talent and aggressive growth-orientedexecutives with a proven track record of success. Successful candidates willpossess a(n):\n• Minimum 10 years of successful business experience in a marketing-intensive business• Uncompromising need for top-level earnings• High energy, self-disciplined, self-starter with a positive attitude• Goal-oriented with a lifelong quest for personal development and career growth• Persuasive communication skills in oral & written form• Comfortable speaking in front of groups in person or virtually• Top-notch consultative sales skills• Comfortable marketing to professionals and C-level executives• Superior time management and organization skills and a desire to work from a home-based office• Professional appearance and demeanor• Passion to market a SaaS product that solves a small business owner's most vexing problem\nWhy J. Galt? | What We Offer• 1st-year Earnings Expectations of $125k-$175k• Long-term Earnings Expectations of $350k+• Weekly Personal Production Earnings• Weekly Override Team Production Earnings• $7,500 Quick Start Bonus after 90 Days.• $5,000 Monthly Personal Performance Bonus• $5,000 Monthly Business Unit Performance Bonus• 5-Figure Quarterly and 6-Figure Annual Bonus Opportunities for Top Producers• Substantial opportunity for promotion and career advancement• Additional earnings from cross-promotion strategies with sister companies in the cost-reduction consulting space\nPromotion Opportunities: Chief Revenue Officer | Equity Stakeholder\nMain Duties & ResponsibilitiesThe Managing Partner contributes significantly to personal production,key channel relationships, as well as hiring, training, and developing ateam of 5-25 Executive Consultants. In summation, a Managing Partnerhas complete control of a J. Galt business credit consulting practice.\nResponsibilities Include:• Attracting memberships through channel partners• Forming strategic alliances with state, trade, and professional associations• Forming partnerships with chambers of commerce• In-person and virtual presentations• Delivering business credit seminars to groups of 5-50 business owners• Monitoring and improving the sales performance of direct reports• Developing sales strategies• Managing the sales process through the J. Galt Sales App• Leading team meetings• Meeting monthly, quarterly, and annual sales targets     YEARLY  United States           Full-time  https://www.linkedin.com/jobs/view/921716/?trk=jobs_biz_prem_srch  https://app.dataannotation.tech/worker_signup?projects=PROG_SA&worker_src=L&utm_medium=display&utm_source=linkedin&utm_campaign=softwaredeveloper     OffsiteApply           Mid-Senior level  This position requires the following skills: Elder care, Healthcare, Hospice Care, Patient Care  www.click2apply.net  FULL_TIME      USD       BASE_SALARY
+freq                                              1108            673                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       474      20628           8125               98814                                                                  1                                                                                                                                                205            84607                      41489                                                                                               28                 3811      98814    36058             36073

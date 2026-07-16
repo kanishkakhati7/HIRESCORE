@@ -1,0 +1,223 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: companies
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\companies.csv
+Rows: 24473
+Columns: 10
+Memory Usage (MB): 43.7168
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: company_id
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 24473
+  Min: 1009
+  Max: 103472979
+  Mean: 20522391.6219
+  Median: 2738154.0
+  Std: 31659289.1549
+
+Column Name: name
+Data Type: str
+Missing Values (count): 1
+Missing Percentage: 0.0%
+Unique Values: 24423
+  Top 10 Most Frequent Values:
+    Confidential: 5
+    The North Face: 2
+    Gallagher: 2
+    JSI: 2
+    Baptist Health: 2
+    CSI: 2
+    Rinker Materials: 2
+    RMI: 2
+    Pandora: 2
+    Entegee: 2
+
+Column Name: description
+Data Type: str
+Missing Values (count): 297
+Missing Percentage: 1.21%
+Unique Values: 24159
+  Top 10 Most Frequent Values:
+    Our Purpose:
+We help people love the way they look and feel for their most important moments.
+
+Our Values:
+•	Customer-First - We put customers at the center of every decision
+•	Win Together - We rally together to achieve common goals
+•	Better Every Day - We strive for excellence and continuous improvement
+•	Everyone Is Welcome - We value differences and know they make us better
+•	Act With Integrity - We show up with courage to always do the right thing: 3
+    .: 3
+    Randstad North America, Inc. is a wholly-owned subsidiary of Randstad N.V., the world's largest HR services provider. Driven to become the world's most valued 'working life partner', supporting as many people as possible in realizing their true potential throughout their working life, we provide companies with the high quality, diverse, and agile workforces they need while helping people get rewarding jobs and stay relevant in the ever-changing world of work. In 2021, Randstad had on average 39,530 corporate employees and generated revenue of € 24.6 billion.
+
+Randstad's North American operations comprise 5,700+ associates and a deployed workforce of more than 86,000 in the U.S. and Canada. In addition to staffing and recruitment, Randstad offers outsourcing, consulting and workforce management solutions for generalist and specialist disciplines, including technology, engineering, accounting and finance, clinical and non-clinical healthcare, human resources, legal, life sciences, manufacturing and logistics, office and administration and sales and marketing. Global concepts available to North American client companies include RPO, MSP, integrated talent solutions, payrolling and independent contractor management and career transition services. Learn more at www.randstadusa.com or www.randstad.ca.: 3
+    HCLTech is a global technology company, home to more than 221,000 people across 60 countries, delivering industry-leading capabilities centered around digital, engineering, cloud and AI, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, Retail and CPG, and Public Services. Consolidated revenues as of 12 months ending September 2023 totaled $12.9 billion. To learn how we can supercharge progress for you, visit hcltech.com.: 2
+    Our customers get a total jobsite solution, so they can get right to work. WillScot and Mobile Mini are now playing for the same team, and our customers are the winners. Everything about our company has been enhanced to make life easier for customers. Our expert staff, abundant fleet, vast location network, turnkey solutions – one call and they get it all. We deliver a complete jobsite solution that’s Ready to Work, so customers can move faster, be more productive, focus on their goals, and succeed.: 2
+    We are a lifestyle retail company with two unique brands located throughout the U.S., Canada, and online. Our Home Office is located just minutes from the beach in Egg Harbor Township, NJ.
+
+At Spencer's and Spirit Halloween, we do the right thing always - integrity, fairness, respect, and transparency are our foundation. You will find our culture to be inclusive, passionate, resilient, and one that values differences and embraces all.
+
+We are leaders and owners of our business success. Whether it’s developing new and exclusive costumes, quality testing products, or implementing technology solutions, our teams understand the value of working collaboratively to embrace change through innovation, curiosity, and thoughtfulness. We are authentic, professional providers of fun, focused on building a Great Place to Work For All by staying true to our mission: “Life’s A Party, We’re Makin’ It Fun!” and “So Much Fun It’s Scary!”: 2
+    Randstad Digital is a trusted digital enablement partner that facilitates accelerated transformation for businesses by providing global talent, capacity, and solutions across specialized domains. Our talent solutions allow you to seamlessly scale your team while connecting you with skilled professionals around the world who align with your chosen technologies. Our focus lies in managed solutions, and we empower businesses to move at speed and achieve goals efficiently. We support four service lines including customer experience, digital and product engineering, data and analytics, and cloud transformation in addition to three engagement models including talent services, global talent centers, and managed solution capabilities. 
+
+Randstad Digital was announced on August 30, 2023, under the umbrella of Randstad, the world’s largest talent company and a partner of choice to clients. Randstad has a deep understanding of the labor market and helps clients to create the high-quality, diverse, and agile workforces they need to succeed. Our 46,000 employees around the world make a positive impact on society by helping people to realize their true potential throughout their working life. 
+
+Randstad was founded in 1960 and is headquartered in Diemen, the Netherlands. In 2022, in our 39 markets, we helped more than 2 million people find a job that feels good and advised over 230,000 clients on their talent needs. We generated revenue of €27.6 billion. Randstad N.V. is listed on the Euronext Amsterdam. For more information, see www.randstad.com.: 2
+    ..: 2
+    We are part of the Upstream Rehabilitation family of clinical care, a leading operator of outpatient physical therapy clinics in the United States. While our business has local roots and a passion for serving our community through superior patient care as well as charitable initiatives, we also have the educational and clinical resources that are only possible to access through a larger company like Upstream.
+
+Our success has several contributing factors:
+
+Hiring the right therapists; those with both academic and clinical excellence
+Unparalleled customer service and best-in-class patient care
+Local and regional density
+We strive to provide an inclusive work environment where our differences are celebrated for the value they bring to our communities, our patients and our teammates, and we commit to continue to focus on diversifying every level of our workforce accordingly.: 2
+    OUR VISION
+Deliver dynamic, innovative, and integrated programs and services that inspire Sailors and Navy families to thrive throughout their military life cycle.
+
+OUR CORE ATTRIBUTES
+Service, Respect, Transparency, Accountability, Integrity, Dedication
+
+OUR MISSION
+Fleet and Family Readiness Programs at Commander, Navy Installations Command (CNIC) is responsible for policy development, resourcing, and oversight of quality-of-life programs for Sailors and families. The Navy Quality of Life (QOL) mission is to strengthen the warfighting capabilities of the Fleet, Fighter, and Family by providing essential services that enhance well-being, resilience, and retention through the delivery of Child and Youth, Fleet and Family Support, Fitness, Food Services, Housing, Recreation, Casualty Support, and Wounded Warrior programs.: 2
+
+Column Name: company_size
+Data Type: float64
+Missing Values (count): 2774
+Missing Percentage: 11.33%
+Unique Values: 7
+  Min: 1.0
+  Max: 7.0
+  Mean: 3.3492
+  Median: 3.0
+  Std: 1.9045
+
+Column Name: state
+Data Type: str
+Missing Values (count): 22
+Missing Percentage: 0.09%
+Unique Values: 723
+  Top 10 Most Frequent Values:
+    0: 2175
+    California: 1759
+    CA: 1407
+    Texas: 1281
+    NY: 983
+    Florida: 768
+    New York: 660
+    TX: 585
+    Illinois: 552
+    IL: 509
+
+Column Name: country
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 81
+  Top 10 Most Frequent Values:
+    US: 21635
+    0: 727
+    GB: 620
+    CA: 258
+    IN: 157
+    DE: 128
+    FR: 118
+    CH: 93
+    AU: 73
+    NL: 64
+
+Column Name: city
+Data Type: str
+Missing Values (count): 1
+Missing Percentage: 0.0%
+Unique Values: 3966
+  Top 10 Most Frequent Values:
+    New York: 1195
+    0: 1004
+    Chicago: 504
+    San Francisco: 429
+    Houston: 423
+    Los Angeles: 385
+    Atlanta: 343
+    London: 336
+    Dallas: 308
+    Austin: 283
+
+Column Name: zip_code
+Data Type: str
+Missing Values (count): 28
+Missing Percentage: 0.11%
+Unique Values: 7744
+  Top 10 Most Frequent Values:
+    0: 3060
+    10001: 116
+    10017: 104
+    10018: 91
+    60606: 86
+    10036: 69
+    94105: 68
+    10022: 67
+    10016: 61
+    78701: 60
+
+Column Name: address
+Data Type: str
+Missing Values (count): 22
+Missing Percentage: 0.09%
+Unique Values: 19447
+  Top 10 Most Frequent Values:
+    0: 3972
+    Downtown: 7
+    -: 6
+    New York: 6
+    .: 6
+    433 W Van Buren St: 6
+    175 Greenwich St: 5
+    450 N. State College Blvd.: 5
+    120 Broadway: 5
+    Headquarters: 5
+
+Column Name: url
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 24473
+  Top 10 Most Frequent Values:
+    https://www.linkedin.com/company/ibm: 1
+    https://www.linkedin.com/company/gehealthcare: 1
+    https://www.linkedin.com/company/hewlett-packard-enterprise: 1
+    https://www.linkedin.com/company/oracle: 1
+    https://www.linkedin.com/company/accenture: 1
+    https://www.linkedin.com/company/microsoft: 1
+    https://www.linkedin.com/company/deloitte: 1
+    https://www.linkedin.com/company/siemens: 1
+    https://www.linkedin.com/company/pwc: 1
+    https://www.linkedin.com/company/att: 1
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+         company_id  company_size
+count  2.447300e+04  21699.000000
+mean   2.052239e+07      3.349233
+std    3.165929e+07      1.904503
+min    1.009000e+03      1.000000
+25%    1.654040e+05      2.000000
+50%    2.738154e+06      3.000000
+75%    2.624142e+07      5.000000
+max    1.034730e+08      7.000000
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+                name                                                                                                                                                                                                                                                                                                                                                                                                                                                                            description  state country      city zip_code address                                   url
+count          24472                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  24176  24451   24473     24472    24445   24451                                 24473
+unique         24423                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  24159    723      81      3966     7744   19447                                 24473
+top     Confidential  Our Purpose:\nWe help people love the way they look and feel for their most important moments.\n\nOur Values:\n•\tCustomer-First - We put customers at the center of every decision\n•\tWin Together - We rally together to achieve common goals\n•\tBetter Every Day - We strive for excellence and continuous improvement\n•\tEveryone Is Welcome - We value differences and know they make us better\n•\tAct With Integrity - We show up with courage to always do the right thing      0      US  New York        0       0  https://www.linkedin.com/company/ibm
+freq               5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      3   2175   21635      1195     3060    3972                                     1

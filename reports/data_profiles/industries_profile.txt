@@ -1,0 +1,61 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: industries
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\industries.csv
+Rows: 422
+Columns: 2
+Memory Usage (MB): 0.0321
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: industry_id
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 422
+  Min: 1
+  Max: 3253
+  Mean: 1342.3057
+  Median: 1161.5
+  Std: 1212.0226
+
+Column Name: industry_name
+Data Type: str
+Missing Values (count): 34
+Missing Percentage: 8.06%
+Unique Values: 388
+  Top 10 Most Frequent Values:
+    Defense and Space Manufacturing: 1
+    Computer Hardware Manufacturing: 1
+    Software Development: 1
+    Computer Networking Products: 1
+    Technology, Information and Internet: 1
+    Semiconductor Manufacturing: 1
+    Telecommunications: 1
+    Law Practice: 1
+    Legal Services: 1
+    Business Consulting and Services: 1
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+       industry_id
+count   422.000000
+mean   1342.305687
+std    1212.022551
+min       1.000000
+25%     108.250000
+50%    1161.500000
+75%    2279.500000
+max    3253.000000
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+                          industry_name
+count                               388
+unique                              388
+top     Defense and Space Manufacturing
+freq                                  1

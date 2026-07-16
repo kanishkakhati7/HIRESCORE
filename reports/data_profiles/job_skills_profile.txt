@@ -1,0 +1,59 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: job_skills
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\job_skills.csv
+Rows: 12217
+Columns: 2
+Memory Usage (MB): 7.7128
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: job_link
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 12217
+  Top 10 Most Frequent Values:
+    https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-jobs-for-humanity-3804053819: 1
+    https://www.linkedin.com/jobs/view/principal-software-engineer-ml-accelerators-at-aurora-3703455068: 1
+    https://www.linkedin.com/jobs/view/senior-etl-data-warehouse-specialist-at-adame-services-llc-3765023888: 1
+    https://www.linkedin.com/jobs/view/senior-data-warehouse-developer-architect-at-morph-enterprise-3794602483: 1
+    https://www.linkedin.com/jobs/view/lead-data-engineer-at-dice-3805948138: 1
+    https://www.linkedin.com/jobs/view/senior-data-engineer-at-university-of-chicago-3798206502: 1
+    https://www.linkedin.com/jobs/view/manager-cyber-risk-analysis-machine-learning-at-jobs-for-humanity-3792356406: 1
+    https://www.linkedin.com/jobs/view/principal-associate-data-loss-prevention-dlp-engineer-at-jobs-for-humanity-3789001363: 1
+    https://www.linkedin.com/jobs/view/senior-financial-data-analyst-at-the-walt-disney-company-3787686471: 1
+    https://www.linkedin.com/jobs/view/machine-learning-infrastructure-engineer-at-l-t-technology-services-3784021144: 1
+
+Column Name: job_skills
+Data Type: str
+Missing Values (count): 5
+Missing Percentage: 0.04%
+Unique Values: 12204
+  Top 10 Most Frequent Values:
+    data representation, data analysis, SQL, data analytics, analytics, python (programming language), data mining, data science, r (programming language), tableau, analytical skills, data visualization, databases, business analysis, business intelligence (bi), microsoft sql server, machine learning, statistics, microsoft power bi, java, finance, shopee, traveloka, google, facebook, ctrip, trip.com, makemytrip, grab, amazon, pandas (software), artificial intelligence (ai), information technology, capital one, accenture, upwork, deloitte, mckinsey, bain, microsoft, uber, lyft, gojek, lazada, alibaba, shopify, expedia, skyscanner: 3
+    VolunteerMatch, LinkedIn for Good: 3
+    data representation, data analysis, SQL, data analytics, analytics, python (programming language), data mining, data science, r (programming language), tableau, analytical skills, data visualization, databases, business analysis, business intelligence (bi), microsoft sql server, product analyst: 2
+    GCP, AI/ML, Machine Learning, Artificial Intelligence, Communication Skills: 2
+    Data analysis, Statistical techniques, Data visualization, SQL, R, Python, Tableau, Power BI, Statistical modeling, Hypothesis testing, A/B testing, Data management, ETL processes, Communication, Collaboration, Problemsolving, Critical thinking: 2
+    Quantitative Finance, AntiMoney Laundering (AML), Machine Learning, AI, Python, PySpark, SQL, Hadoop, Statistics, Math, Economics, Team Player, Communication Skills, Programming Skills, Analytical Skills, ProblemSolving Skills, AML Modelling Techniques, GRA Model Development Tools, Risk Models, US Regulatory Environment: 2
+    Machine Learning, Programming, Python, Scala, Java, Data Engineering, Distributed Computing, Statistical Modeling, Optimization, Data Pipelines, Cloud Computing, DevOps, Software Development, Data Gathering, Data Preparation, Data Visualization, Machine Learning Frameworks, scikitlearn, PyTorch, Dask, Spark, TensorFlow, Distributed File Systems, Multi node Database Paradigms, Open Source ML Software, Responsible AI, Explainable AI: 1
+    C++, Python, PyTorch, TensorFlow, MXNet, CUDA, OpenCL, OpenVX, Halide, SIMD programming models, MLspecific accelerators, Linux/unix environments, Deep learning frameworks, Computer vision deep learning models, ML software and hardware technology, Inference on edge platforms, Cloud ML training pipelines, HPC experience, Performance troubleshooting, Profiling, Roofline model, Analytical skills, Communication skills: 1
+    ETL, Data Integration, Data Transformation, Data Warehousing, Business Intelligence, Data Modeling, Data Architecture, Data Quality, Data Validation, Data Cleansing, Performance Optimization, Performance Tuning, Troubleshooting, Documentation, Reporting, Data Analysis, Collaboration, Communication, SQL, Informatica, Talend, Apache NiFi, AWS Redshift, Azure SQL Data Warehouse, Financial/Banking, CloudBased Data Platforms, Regulatory Compliance: 1
+    Data Lakes, Data Bricks, Azure Data Factory Pipelines, Spark, Python, Business Intelligence, Data Warehouse, SQL Server, Azure, ETL/ELT, SQL Server Integration Services, TSQL, Data Formatting, Data Capture, Data Search, Data Retrieval, Data Extraction, Data Classification, Information Filtering, Data Mining Architectures, Modeling Standards, Reporting, Data Analysis Methodologies, Data Engineering, Database File Systems Optimization, API's, Analytics as a Service, Relational Databases, Dimensional Databases, Entity Relationships, Data Warehousing, Facts, Dimensions, Star Schema Concepts, Star Schema Terminology, Project Management, Organizational Skills, Collaboration, Communication, Technical Presentaion Skills, 12+ Years of Relevant Experience: 1
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+No numeric columns found in this dataset.
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+                                                                                                   job_link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               job_skills
+count                                                                                                 12217                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    12212
+unique                                                                                                12217                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    12204
+top     https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-jobs-for-humanity-3804053819  data representation, data analysis, SQL, data analytics, analytics, python (programming language), data mining, data science, r (programming language), tableau, analytical skills, data visualization, databases, business analysis, business intelligence (bi), microsoft sql server, machine learning, statistics, microsoft power bi, java, finance, shopee, traveloka, google, facebook, ctrip, trip.com, makemytrip, grab, amazon, pandas (software), artificial intelligence (ai), information technology, capital one, accenture, upwork, deloitte, mckinsey, bain, microsoft, uber, lyft, gojek, lazada, alibaba, shopify, expedia, skyscanner
+freq                                                                                                      1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        3

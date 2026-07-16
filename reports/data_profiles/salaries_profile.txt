@@ -1,0 +1,121 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: salaries
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\salaries.csv
+Rows: 40785
+Columns: 8
+Memory Usage (MB): 8.052
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: salary_id
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 40785
+  Min: 1
+  Max: 40785
+  Mean: 20393.0
+  Median: 20393.0
+  Std: 11773.7597
+
+Column Name: job_id
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 40785
+  Min: 921716
+  Max: 3906267224
+  Mean: 3895563848.8707
+  Median: 3901980104.0
+  Std: 94966717.9973
+
+Column Name: max_salary
+Data Type: float64
+Missing Values (count): 6838
+Missing Percentage: 16.77%
+Unique Values: 5321
+  Min: 1.0
+  Max: 120000000.0
+  Mean: 96209.8718
+  Median: 85000.0
+  Std: 658737.3427
+
+Column Name: med_salary
+Data Type: float64
+Missing Values (count): 33947
+Missing Percentage: 83.23%
+Unique Values: 1417
+  Min: 0.0
+  Max: 750000.0
+  Mean: 21370.2982
+  Median: 25.0
+  Std: 51338.5642
+
+Column Name: min_salary
+Data Type: float64
+Missing Values (count): 6838
+Missing Percentage: 16.77%
+Unique Values: 4620
+  Min: 1.0
+  Max: 85000000.0
+  Mean: 65085.4063
+  Median: 62300.0
+  Std: 465061.2359
+
+Column Name: pay_period
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 5
+  Top 10 Most Frequent Values:
+    YEARLY: 23768
+    HOURLY: 16289
+    MONTHLY: 539
+    WEEKLY: 180
+    BIWEEKLY: 9
+
+Column Name: currency
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 6
+  Top 10 Most Frequent Values:
+    USD: 40770
+    EUR: 6
+    CAD: 3
+    BBD: 2
+    AUD: 2
+    GBP: 2
+
+Column Name: compensation_type
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 1
+  Top 10 Most Frequent Values:
+    BASE_SALARY: 40785
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+          salary_id        job_id    max_salary     med_salary    min_salary
+count  40785.000000  4.078500e+04  3.394700e+04    6838.000000  3.394700e+04
+mean   20393.000000  3.895564e+09  9.620987e+04   21370.298197  6.508541e+04
+std    11773.759701  9.496672e+07  6.587373e+05   51338.564166  4.650612e+05
+min        1.000000  9.217160e+05  1.000000e+00       0.000000  1.000000e+00
+25%    10197.000000  3.894608e+09  5.000000e+01      18.500000  3.900000e+01
+50%    20393.000000  3.901980e+09  8.500000e+04      25.000000  6.230000e+04
+75%    30589.000000  3.904576e+09  1.425000e+05    2207.000000  1.000000e+05
+max    40785.000000  3.906267e+09  1.200000e+08  750000.000000  8.500000e+07
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+       pay_period currency compensation_type
+count       40785    40785             40785
+unique          5        6                 1
+top        YEARLY      USD       BASE_SALARY
+freq        23768    40770             40785

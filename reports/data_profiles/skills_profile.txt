@@ -1,0 +1,59 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: skills
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\skills.csv
+Rows: 35
+Columns: 2
+Memory Usage (MB): 0.0039
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: skill_abr
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 35
+  Top 10 Most Frequent Values:
+    ART: 1
+    DSGN: 1
+    ADVR: 1
+    PRDM: 1
+    DIST: 1
+    EDU: 1
+    TRNG: 1
+    PRJM: 1
+    CNSL: 1
+    PRCH: 1
+
+Column Name: skill_name
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 35
+  Top 10 Most Frequent Values:
+    Art/Creative: 1
+    Design: 1
+    Advertising: 1
+    Product Management: 1
+    Distribution: 1
+    Education: 1
+    Training: 1
+    Project Management: 1
+    Consulting: 1
+    Purchasing: 1
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+No numeric columns found in this dataset.
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+       skill_abr    skill_name
+count         35            35
+unique        35            35
+top          ART  Art/Creative
+freq           1             1

@@ -1,0 +1,439 @@
+=================================
+DATASET SUMMARY
+=================================
+Dataset Name: global_ai_jobs
+Absolute Path: C:\Users\HP\Documents\HIRESCORE APP\datasets\processed\global_ai_jobs.csv
+Rows: 90000
+Columns: 35
+Memory Usage (MB): 57.6916
+
+---------------------------------
+COLUMN INFORMATION
+---------------------------------
+Column Name: id
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 90000
+  Min: 1
+  Max: 90000
+  Mean: 45000.5
+  Median: 45000.5
+  Std: 25980.9065
+
+Column Name: country
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 12
+  Top 10 Most Frequent Values:
+    Canada: 7602
+    Australia: 7589
+    Singapore: 7583
+    Brazil: 7545
+    UK: 7532
+    UAE: 7529
+    Netherlands: 7514
+    Germany: 7461
+    India: 7450
+    France: 7440
+
+Column Name: job_role
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 8
+  Top 10 Most Frequent Values:
+    NLP Engineer: 11412
+    Software Engineer AI: 11333
+    Research Scientist: 11309
+    Machine Learning Engineer: 11263
+    AI Engineer: 11247
+    Computer Vision Engineer: 11227
+    Data Scientist: 11146
+    Data Analyst: 11063
+
+Column Name: ai_specialization
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 8
+  Top 10 Most Frequent Values:
+    Computer Vision: 11487
+    LLM: 11466
+    Reinforcement Learning: 11261
+    Analytics: 11258
+    Generative AI: 11208
+    MLOps: 11133
+    Forecasting: 11115
+    NLP: 11072
+
+Column Name: experience_level
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 4
+  Top 10 Most Frequent Values:
+    Senior: 22680
+    Lead: 22556
+    Mid: 22459
+    Entry: 22305
+
+Column Name: experience_years
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 20
+  Min: 0
+  Max: 19
+  Mean: 7.0281
+  Median: 6.0
+  Std: 5.8893
+
+Column Name: salary_usd
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 65976
+  Min: 28000
+  Max: 300622
+  Mean: 96546.2492
+  Median: 87544.0
+  Std: 43935.4796
+
+Column Name: bonus_usd
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 27544
+  Min: 1404
+  Max: 57681
+  Mean: 13028.4187
+  Median: 11279.0
+  Std: 7886.7381
+
+Column Name: education_required
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 5
+  Top 10 Most Frequent Values:
+    Bootcamp: 18148
+    PhD: 18070
+    Bachelor: 18005
+    Diploma: 17914
+    Master: 17863
+
+Column Name: industry
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 10
+  Top 10 Most Frequent Values:
+    Gaming: 9190
+    Education: 9067
+    Finance: 9057
+    Energy: 9017
+    Retail: 8987
+    Tech: 8984
+    Consulting: 8954
+    Telecom: 8939
+    Automotive: 8930
+    Healthcare: 8875
+
+Column Name: company_size
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 5
+  Top 10 Most Frequent Values:
+    Medium: 18328
+    Startup: 18008
+    Enterprise: 17988
+    Small: 17919
+    Large: 17757
+
+Column Name: interview_rounds
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 6
+  Min: 2
+  Max: 7
+  Mean: 4.4957
+  Median: 4.0
+  Std: 1.7046
+
+Column Name: year
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 7
+  Min: 2020
+  Max: 2026
+  Mean: 2023.0032
+  Median: 2023.0
+  Std: 2.0026
+
+Column Name: work_mode
+Data Type: str
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 3
+  Top 10 Most Frequent Values:
+    Onsite: 30233
+    Remote: 30005
+    Hybrid: 29762
+
+Column Name: weekly_hours
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 191
+  Min: 36.0
+  Max: 55.0
+  Mean: 45.4763
+  Median: 45.5
+  Std: 5.4755
+
+Column Name: company_rating
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 161
+  Min: 3.2
+  Max: 4.8
+  Mean: 3.998
+  Median: 4.0
+  Std: 0.4619
+
+Column Name: job_openings
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 49
+  Min: 1
+  Max: 50
+  Mean: 17.5219
+  Median: 17.0
+  Std: 7.8486
+
+Column Name: hiring_difficulty_score
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 89333
+  Min: 0.0
+  Max: 100.0
+  Mean: 55.0286
+  Median: 55.0661
+  Std: 17.9015
+
+Column Name: layoff_risk
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 549
+  Min: 0.0
+  Max: 0.588
+  Mean: 0.1797
+  Median: 0.14
+  Std: 0.1314
+
+Column Name: ai_adoption_score
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 88
+  Min: 1
+  Max: 100
+  Mean: 71.3752
+  Median: 71.0
+  Std: 13.7678
+
+Column Name: company_funding_billion
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 931
+  Min: 0.2
+  Max: 9.5
+  Mean: 4.8484
+  Median: 4.84
+  Std: 2.6811
+
+Column Name: economic_index
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 5501
+  Min: 45.0
+  Max: 100.0
+  Mean: 72.5182
+  Median: 72.58
+  Std: 15.8817
+
+Column Name: ai_maturity_years
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 12
+  Min: 3
+  Max: 14
+  Mean: 8.5189
+  Median: 9.0
+  Std: 3.4532
+
+Column Name: offer_acceptance_rate
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 4001
+  Min: 55.0
+  Max: 95.0
+  Mean: 75.0094
+  Median: 75.0
+  Std: 11.5149
+
+Column Name: tax_rate_percent
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 301
+  Min: 12.0
+  Max: 42.0
+  Mean: 27.0058
+  Median: 27.0
+  Std: 8.6647
+
+Column Name: vacation_days
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 21
+  Min: 10
+  Max: 30
+  Mean: 19.9864
+  Median: 20.0
+  Std: 6.0696
+
+Column Name: skill_demand_score
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 100
+  Min: 1
+  Max: 100
+  Mean: 50.4612
+  Median: 51.0
+  Std: 28.8538
+
+Column Name: automation_risk
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 100
+  Min: 1
+  Max: 100
+  Mean: 50.3575
+  Median: 50.0
+  Std: 28.8457
+
+Column Name: job_security_score
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 69
+  Min: 29
+  Max: 99
+  Mean: 75.5635
+  Median: 77.0
+  Std: 11.3165
+
+Column Name: career_growth_score
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 75
+  Min: 25
+  Max: 99
+  Mean: 57.1985
+  Median: 57.0
+  Std: 12.9002
+
+Column Name: work_life_balance_score
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 74
+  Min: 25
+  Max: 98
+  Mean: 69.1465
+  Median: 69.0
+  Std: 13.214
+
+Column Name: promotion_speed
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 87
+  Min: 12
+  Max: 98
+  Mean: 38.4396
+  Median: 37.0
+  Std: 18.4292
+
+Column Name: salary_percentile
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 100
+  Min: 1
+  Max: 100
+  Mean: 50.5424
+  Median: 51.0
+  Std: 28.8916
+
+Column Name: cost_of_living_index
+Data Type: float64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 201
+  Min: 0.5
+  Max: 2.5
+  Mean: 1.503
+  Median: 1.51
+  Std: 0.5764
+
+Column Name: employee_satisfaction
+Data Type: int64
+Missing Values (count): 0
+Missing Percentage: 0.0%
+Unique Values: 58
+  Min: 42
+  Max: 99
+  Mean: 72.7331
+  Median: 73.0
+  Std: 8.124
+
+---------------------------------
+NUMERIC SUMMARY
+---------------------------------
+                 id  experience_years     salary_usd     bonus_usd  interview_rounds          year  weekly_hours  company_rating  job_openings  hiring_difficulty_score   layoff_risk  ai_adoption_score  company_funding_billion  economic_index  ai_maturity_years  offer_acceptance_rate  tax_rate_percent  vacation_days  skill_demand_score  automation_risk  job_security_score  career_growth_score  work_life_balance_score  promotion_speed  salary_percentile  cost_of_living_index  employee_satisfaction
+count  90000.000000      90000.000000   90000.000000  90000.000000      90000.000000  90000.000000  90000.000000    90000.000000  90000.000000             90000.000000  90000.000000       90000.000000             90000.000000    90000.000000       90000.000000           90000.000000      90000.000000   90000.000000        90000.000000     90000.000000        90000.000000         90000.000000             90000.000000     90000.000000       90000.000000          90000.000000           90000.000000
+mean   45000.500000          7.028133   96546.249222  13028.418722          4.495689   2023.003200     45.476268        3.998004     17.521867                55.028604      0.179706          71.375167                 4.848425       72.518162           8.518878              75.009412         27.005793      19.986367           50.461200        50.357544           75.563533            57.198544                69.146478        38.439633          50.542411              1.503042              72.733100
+std    25980.906451          5.889327   43935.479553   7886.738085          1.704553      2.002624      5.475497        0.461914      7.848576                17.901451      0.131371          13.767769                 2.681073       15.881720           3.453179              11.514932          8.664666       6.069607           28.853798        28.845671           11.316485            12.900225                13.213996        18.429221          28.891570              0.576449               8.124018
+min        1.000000          0.000000   28000.000000   1404.000000          2.000000   2020.000000     36.000000        3.200000      1.000000                 0.000000      0.000000           1.000000                 0.200000       45.000000           3.000000              55.000000         12.000000      10.000000            1.000000         1.000000           29.000000            25.000000                25.000000        12.000000           1.000000              0.500000              42.000000
+25%    22500.750000          2.000000   64676.750000   7104.750000          3.000000   2021.000000     40.700000        3.600000     12.000000                42.881134      0.078000          62.000000                 2.530000       58.730000           6.000000              65.070000         19.500000      15.000000           25.000000        25.000000           68.000000            48.000000                59.000000        24.000000          25.000000              1.010000              67.000000
+50%    45000.500000          6.000000   87544.000000  11279.000000          4.000000   2023.000000     45.500000        4.000000     17.000000                55.066089      0.140000          71.000000                 4.840000       72.580000           9.000000              75.000000         27.000000      20.000000           51.000000        50.000000           77.000000            57.000000                69.000000        37.000000          51.000000              1.510000              73.000000
+75%    67500.250000         12.000000  123906.000000  16997.250000          6.000000   2025.000000     50.200000        4.400000     23.000000                67.118119      0.276000          81.000000                 7.170000       86.260000          12.000000              84.990000         34.500000      25.000000           75.000000        75.000000           84.000000            66.000000                79.000000        51.000000          76.000000              2.000000              78.000000
+max    90000.000000         19.000000  300622.000000  57681.000000          7.000000   2026.000000     55.000000        4.800000     50.000000               100.000000      0.588000         100.000000                 9.500000      100.000000          14.000000              95.000000         42.000000      30.000000          100.000000       100.000000           99.000000            99.000000                98.000000        98.000000         100.000000              2.500000              99.000000
+
+---------------------------------
+CATEGORICAL SUMMARY
+---------------------------------
+       country      job_role ai_specialization experience_level education_required industry company_size work_mode
+count    90000         90000             90000            90000              90000    90000        90000     90000
+unique      12             8                 8                4                  5       10            5         3
+top     Canada  NLP Engineer   Computer Vision           Senior           Bootcamp   Gaming       Medium    Onsite
+freq      7602         11412             11487            22680              18148     9190        18328     30233

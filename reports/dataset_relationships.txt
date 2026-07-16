@@ -1,0 +1,246 @@
+DATASET RELATIONSHIP REPORT
+
+================================================================================
+DATASET OVERVIEW
+================================================================================
+
+
+Dataset: Resume
+--------------------------------------------------------------------------------
+
+Rows               : 2,484
+Columns            : 4
+Column type mix    : numeric=1, text=3
+Primary key(s)     : id
+
+Dataset: companies
+--------------------------------------------------------------------------------
+
+Rows               : 24,473
+Columns            : 10
+Column type mix    : numeric=2, text=8
+Primary key(s)     : company_id, url
+
+Dataset: company_industries
+--------------------------------------------------------------------------------
+
+Rows               : 24,375
+Columns            : 2
+Column type mix    : numeric=1, text=1
+Primary key(s)     : none detected
+
+Dataset: global_ai_jobs
+--------------------------------------------------------------------------------
+
+Rows               : 90,000
+Columns            : 35
+Column type mix    : numeric=27, text=8
+Primary key(s)     : id
+
+Dataset: industries
+--------------------------------------------------------------------------------
+
+Rows               : 422
+Columns            : 2
+Column type mix    : numeric=1, text=1
+Primary key(s)     : industry_id
+
+Dataset: job_skills
+--------------------------------------------------------------------------------
+
+Rows               : 12,217
+Columns            : 2
+Column type mix    : text=2
+Primary key(s)     : job_link
+
+Dataset: postings
+--------------------------------------------------------------------------------
+
+Rows               : 123,849
+Columns            : 31
+Column type mix    : numeric=16, text=15
+Primary key(s)     : job_id, job_posting_url
+
+Dataset: salaries
+--------------------------------------------------------------------------------
+
+Rows               : 40,785
+Columns            : 8
+Column type mix    : numeric=5, text=3
+Primary key(s)     : salary_id, job_id
+
+Dataset: skills
+--------------------------------------------------------------------------------
+
+Rows               : 35
+Columns            : 2
+Column type mix    : text=2
+Primary key(s)     : skill_abr, skill_name
+
+================================================================================
+MATCHING COLUMNS ACROSS DATASETS
+================================================================================
+
+
+Match group: 'company'
+--------------------------------------------------------------------------------
+
+    companies                company_id               dtype family: numeric
+    company_industries       company_id               dtype family: numeric
+    postings                 company_id               dtype family: numeric
+
+Match group: 'company_size'
+--------------------------------------------------------------------------------
+
+    companies                company_size             dtype family: numeric
+    global_ai_jobs           company_size             dtype family: text
+    NOTE: dtype families differ across this match group; joining on these columns may require type conversion.
+
+Match group: 'compensation_type'
+--------------------------------------------------------------------------------
+
+    postings                 compensation_type        dtype family: text
+    salaries                 compensation_type        dtype family: text
+
+Match group: 'country'
+--------------------------------------------------------------------------------
+
+    companies                country                  dtype family: text
+    global_ai_jobs           country                  dtype family: text
+
+Match group: 'currency'
+--------------------------------------------------------------------------------
+
+    postings                 currency                 dtype family: text
+    salaries                 currency                 dtype family: text
+
+Match group: 'description'
+--------------------------------------------------------------------------------
+
+    companies                description              dtype family: text
+    postings                 description              dtype family: text
+
+Match group: 'id'
+--------------------------------------------------------------------------------
+
+    Resume                   id                       dtype family: numeric
+    global_ai_jobs           id                       dtype family: numeric
+
+Match group: 'industry'
+--------------------------------------------------------------------------------
+
+    company_industries       industry                 dtype family: text
+    global_ai_jobs           industry                 dtype family: text
+    industries               industry_id              dtype family: numeric
+    NOTE: dtype families differ across this match group; joining on these columns may require type conversion.
+
+Match group: 'job'
+--------------------------------------------------------------------------------
+
+    postings                 job_id                   dtype family: numeric
+    salaries                 job_id                   dtype family: numeric
+
+Match group: 'max_salary'
+--------------------------------------------------------------------------------
+
+    postings                 max_salary               dtype family: numeric
+    salaries                 max_salary               dtype family: numeric
+
+Match group: 'med_salary'
+--------------------------------------------------------------------------------
+
+    postings                 med_salary               dtype family: numeric
+    salaries                 med_salary               dtype family: numeric
+
+Match group: 'min_salary'
+--------------------------------------------------------------------------------
+
+    postings                 min_salary               dtype family: numeric
+    salaries                 min_salary               dtype family: numeric
+
+Match group: 'pay_period'
+--------------------------------------------------------------------------------
+
+    postings                 pay_period               dtype family: text
+    salaries                 pay_period               dtype family: text
+
+Match group: 'zip_code'
+--------------------------------------------------------------------------------
+
+    companies                zip_code                 dtype family: text
+    postings                 zip_code                 dtype family: numeric
+    NOTE: dtype families differ across this match group; joining on these columns may require type conversion.
+
+================================================================================
+FOREIGN KEY CANDIDATES & JOIN COMPATIBILITY
+================================================================================
+
+Child dataset.column                  -> Parent dataset.column               Containment  Dtype OK      Rating
+--------------------------------------------------------------------------------
+company_industries.company_id         -> companies.company_id                     100.0%       yes      Strong
+postings.company_id                   -> companies.company_id                     100.0%       yes      Strong
+salaries.job_id                       -> postings.job_id                           88.4%       yes    Moderate
+postings.job_id                       -> salaries.job_id                           29.1%       yes        Weak
+company_industries.industry           -> industries.industry_id                     0.0%        noIncompatible
+global_ai_jobs.industry               -> industries.industry_id                     0.0%        noIncompatible
+Resume.id                             -> global_ai_jobs.id                          0.0%       yes        Weak
+global_ai_jobs.id                     -> Resume.id                                  0.0%       yes        Weak
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+
+Merge Guidance
+--------------------------------------------------------------------------------
+
+MERGE CANDIDATE: 'company_industries' -> 'companies' via company_id -> company_id (Strong join, 100.0% containment). A left join from 'company_industries' onto 'companies' looks safe to perform in a later pipeline stage.
+MERGE CANDIDATE: 'postings' -> 'companies' via company_id -> company_id (Strong join, 100.0% containment). A left join from 'postings' onto 'companies' looks safe to perform in a later pipeline stage.
+MERGE CANDIDATE: 'salaries' -> 'postings' via job_id -> job_id (Moderate join, 88.4% containment). A left join from 'salaries' onto 'postings' looks safe to perform in a later pipeline stage.
+KEEP SEPARATE: Resume, global_ai_jobs, industries, job_skills, skills showed no strong/moderate relationship to any other dataset and should remain standalone unless a shared key is introduced.
+
+Per-Dataset Contribution to the ML Pipeline
+--------------------------------------------------------------------------------
+
+    Resume:
+        - 2,484 rows, 1 numeric column(s), 3 categorical/text column(s). No obvious target column detected by name; likely a feature/reference table.
+    companies:
+        - 24,473 rows, 2 numeric column(s), 8 categorical/text column(s). No obvious target column detected by name; likely a feature/reference table.
+    company_industries:
+        - 24,375 rows, 1 numeric column(s), 1 categorical/text column(s). No obvious target column detected by name; likely a feature/reference table.
+    global_ai_jobs:
+        - 90,000 rows, 27 numeric column(s), 8 categorical/text column(s). No obvious target column detected by name; likely a feature/reference table.
+    industries:
+        - 422 rows, 1 numeric column(s), 1 categorical/text column(s). No obvious target column detected by name; likely a feature/reference table.
+    job_skills:
+        - 12,217 rows, 0 numeric column(s), 2 categorical/text column(s). No obvious target column detected by name; likely a feature/reference table.
+    postings:
+        - 123,849 rows, 16 numeric column(s), 15 categorical/text column(s). Possible target column(s): max_salary, med_salary, min_salary, normalized_salary.
+    salaries:
+        - 40,785 rows, 5 numeric column(s), 3 categorical/text column(s). Possible target column(s): max_salary, med_salary, min_salary.
+    skills:
+        - 35 rows, 0 numeric column(s), 2 categorical/text column(s). No obvious target column detected by name; likely a feature/reference table.
+
+================================================================================
+SUMMARY
+================================================================================
+
+Datasets analyzed          : 9
+    - Resume
+    - companies
+    - company_industries
+    - global_ai_jobs
+    - industries
+    - job_skills
+    - postings
+    - salaries
+    - skills
+
+Datasets failed to load    : 0
+
+Foreign-key candidates     : 8
+    - Strong join compatibility   : 2
+    - Moderate join compatibility : 1
+    - Weak join compatibility     : 3
+
+Report location            : C:\Users\HP\Documents\HIRESCORE APP\reports\dataset_relationships.txt
