@@ -1,6 +1,25 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Input datasets
 datasets/raw/
 datasets/processed/
+
+# Generated datasets
+datasets/final/
+
+# Logs
+*.log
+reports/eda/
+reports/master_dataset_report.txt
